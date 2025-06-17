@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>green-and-orange-tomatoes-on-plant-c0d6e1c03b274bac93db2b666879cf5e.jpg</filename>
+	<path>/my-project-name/green-and-orange-tomatoes-on-plant-c0d6e1c03b274bac93db2b666879cf5e.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1244</width>
+		<height>1866</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>765</ymin>
+			<xmax>576</xmax>
+			<ymax>1156</ymax>
+		</bndbox>
+	</object>
+</annotation>

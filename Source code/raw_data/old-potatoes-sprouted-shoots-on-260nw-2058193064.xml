@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>old-potatoes-sprouted-shoots-on-260nw-2058193064.webp</filename>
+	<path>/my-project-name/old-potatoes-sprouted-shoots-on-260nw-2058193064.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>41</ymin>
+			<xmax>361</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

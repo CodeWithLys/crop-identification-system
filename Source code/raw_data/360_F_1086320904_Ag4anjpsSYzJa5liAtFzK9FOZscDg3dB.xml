@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>360_F_1086320904_Ag4anjpsSYzJa5liAtFzK9FOZscDg3dB.jpg</filename>
+	<path>/my-project-name/360_F_1086320904_Ag4anjpsSYzJa5liAtFzK9FOZscDg3dB.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>6</ymin>
+			<xmax>401</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>bad-expired-iceberg-lettuce-old-260nw-1097449601.webp</filename>
+	<path>/my-project-name/bad-expired-iceberg-lettuce-old-260nw-1097449601.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>195</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>39</ymin>
+			<xmax>180</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>sprouted-yellow-potatoe-isolated-white-background-single-old-germinating-potatoe-sprouted-yellow-potatoe-isolated-white-210798524.webp</filename>
+	<path>/my-project-name/sprouted-yellow-potatoe-isolated-white-background-single-old-germinating-potatoe-sprouted-yellow-potatoe-isolated-white-210798524.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>98</ymin>
+			<xmax>643</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

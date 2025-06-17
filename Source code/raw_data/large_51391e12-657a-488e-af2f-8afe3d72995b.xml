@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>large_51391e12-657a-488e-af2f-8afe3d72995b.jpg</filename>
+	<path>/my-project-name/large_51391e12-657a-488e-af2f-8afe3d72995b.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>71</ymin>
+			<xmax>469</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

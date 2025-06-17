@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>bad-corn-rotten-ear-rustic-wooden-table-undeveloped-maize-ear-selective-focus-shallow-depth-field-58203971.webp</filename>
+	<path>/my-project-name/bad-corn-rotten-ear-rustic-wooden-table-undeveloped-maize-ear-selective-focus-shallow-depth-field-58203971.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>601</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>201</ymin>
+			<xmax>591</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+</annotation>

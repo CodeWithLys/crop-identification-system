@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>fresh-carrot-250x250.webp</filename>
+	<path>/my-project-name/fresh-carrot-250x250.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>36</ymin>
+			<xmax>186</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

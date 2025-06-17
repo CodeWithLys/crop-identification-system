@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>carrot-white-surface_917856-21044.jpg</filename>
+	<path>/my-project-name/carrot-white-surface_917856-21044.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>92</ymin>
+			<xmax>619</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

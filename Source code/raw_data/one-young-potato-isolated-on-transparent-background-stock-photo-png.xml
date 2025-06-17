@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>one-young-potato-isolated-on-transparent-background-stock-photo-png.webp</filename>
+	<path>/my-project-name/one-young-potato-isolated-on-transparent-background-stock-photo-png.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1626</width>
+		<height>980</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>109</ymin>
+			<xmax>1531</xmax>
+			<ymax>866</ymax>
+		</bndbox>
+	</object>
+</annotation>

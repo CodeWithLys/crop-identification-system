@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-onion-white-plate-close-up-isolated-single-onion-white-plate-close-up-isolated-365305954.webp</filename>
+	<path>/my-project-name/single-onion-white-plate-close-up-isolated-single-onion-white-plate-close-up-isolated-365305954.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>606</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>27</ymin>
+			<xmax>693</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

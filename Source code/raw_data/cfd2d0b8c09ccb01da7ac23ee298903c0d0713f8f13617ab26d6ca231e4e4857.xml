@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>cfd2d0b8c09ccb01da7ac23ee298903c0d0713f8f13617ab26d6ca231e4e4857.jpg</filename>
+	<path>/my-project-name/cfd2d0b8c09ccb01da7ac23ee298903c0d0713f8f13617ab26d6ca231e4e4857.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>58</ymin>
+			<xmax>557</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

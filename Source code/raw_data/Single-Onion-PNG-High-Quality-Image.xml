@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Single-Onion-PNG-High-Quality-Image.png</filename>
+	<path>/my-project-name/Single-Onion-PNG-High-Quality-Image.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2953</width>
+		<height>2953</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>73</ymin>
+			<xmax>2604</xmax>
+			<ymax>2735</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>image-single-vegetable-onion-black-background-251534422 (1).webp</filename>
+	<path>/my-project-name/image-single-vegetable-onion-black-background-251534422 (1).webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>137</ymin>
+			<xmax>584</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

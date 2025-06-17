@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>one-whole-pineapple-and-a-slice-isolated-on-white-background-2JG9800.jpg</filename>
+	<path>/my-project-name/one-whole-pineapple-and-a-slice-isolated-on-white-background-2JG9800.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1099</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>647</ymin>
+			<xmax>1021</xmax>
+			<ymax>1260</ymax>
+		</bndbox>
+	</object>
+</annotation>

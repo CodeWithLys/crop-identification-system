@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>isolated-rotten-lettuce-on-white-260nw-1284413881.webp</filename>
+	<path>/my-project-name/isolated-rotten-lettuce-on-white-260nw-1284413881.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>54</ymin>
+			<xmax>159</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

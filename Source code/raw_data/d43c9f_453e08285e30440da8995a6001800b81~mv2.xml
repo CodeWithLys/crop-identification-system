@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>d43c9f_453e08285e30440da8995a6001800b81~mv2.webp</filename>
+	<path>/my-project-name/d43c9f_453e08285e30440da8995a6001800b81~mv2.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>170</ymin>
+			<xmax>298</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

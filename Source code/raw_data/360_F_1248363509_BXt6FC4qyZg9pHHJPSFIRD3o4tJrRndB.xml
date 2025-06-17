@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>360_F_1248363509_BXt6FC4qyZg9pHHJPSFIRD3o4tJrRndB.jpg</filename>
+	<path>/my-project-name/360_F_1248363509_BXt6FC4qyZg9pHHJPSFIRD3o4tJrRndB.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>645</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>69</ymin>
+			<xmax>335</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>images (17).jfif</filename>
+	<path>/my-project-name/images (17).jfif</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>253</width>
+		<height>199</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>35</ymin>
+			<xmax>201</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

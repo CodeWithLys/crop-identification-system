@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>15-la1812-paudha-original-imagcj7adfrred5v.webp</filename>
+	<path>/my-project-name/15-la1812-paudha-original-imagcj7adfrred5v.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>662</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>84</ymin>
+			<xmax>651</xmax>
+			<ymax>946</ymax>
+		</bndbox>
+	</object>
+</annotation>

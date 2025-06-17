@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>depositphotos_382454886-stock-photo-rotten-carrot-isolated-white-background.jpg</filename>
+	<path>/my-project-name/depositphotos_382454886-stock-photo-rotten-carrot-isolated-white-background.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>94</ymin>
+			<xmax>580</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

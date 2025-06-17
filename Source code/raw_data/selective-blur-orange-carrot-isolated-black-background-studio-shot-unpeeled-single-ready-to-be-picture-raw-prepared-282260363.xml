@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>selective-blur-orange-carrot-isolated-black-background-studio-shot-unpeeled-single-ready-to-be-picture-raw-prepared-282260363.webp</filename>
+	<path>/my-project-name/selective-blur-orange-carrot-isolated-black-background-studio-shot-unpeeled-single-ready-to-be-picture-raw-prepared-282260363.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>180</ymin>
+			<xmax>770</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

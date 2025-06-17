@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-brown-onion-centered-light-wooden-surface-showcasing-its-round-shape-papery-skin-single-onion-364147537.webp</filename>
+	<path>/my-project-name/single-brown-onion-centered-light-wooden-surface-showcasing-its-round-shape-papery-skin-single-onion-364147537.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>158</ymin>
+			<xmax>462</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>

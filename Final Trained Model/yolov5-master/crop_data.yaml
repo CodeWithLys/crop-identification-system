@@ -1,0 +1,7 @@
+train: C:\VBS\raw_data\raw_data\dataset\images\train
+val: C:\VBS\raw_data\raw_data\dataset\images\val
+
+
+
+nc: 23   # number of classes
+names: ['apple', 'banana', 'carrot', 'corn', 'grapes', 'kiwi', 'lettuce', 'onion', 'peeled banana', 'pineapple', 'potato', 'tomato', ...]

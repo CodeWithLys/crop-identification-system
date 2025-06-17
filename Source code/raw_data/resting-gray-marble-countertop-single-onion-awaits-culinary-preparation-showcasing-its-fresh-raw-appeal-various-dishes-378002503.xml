@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>resting-gray-marble-countertop-single-onion-awaits-culinary-preparation-showcasing-its-fresh-raw-appeal-various-dishes-378002503.webp</filename>
+	<path>/my-project-name/resting-gray-marble-countertop-single-onion-awaits-culinary-preparation-showcasing-its-fresh-raw-appeal-various-dishes-378002503.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>676</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>224</ymin>
+			<xmax>623</xmax>
+			<ymax>658</ymax>
+		</bndbox>
+	</object>
+</annotation>

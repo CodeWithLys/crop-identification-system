@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>stock-photo-one-single-lettuce-salad-leaf-close-up-top-view-surface-isolated-on-white-background-215092456.jpg</filename>
+	<path>/my-project-name/stock-photo-one-single-lettuce-salad-leaf-close-up-top-view-surface-isolated-on-white-background-215092456.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1470</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>50</ymin>
+			<xmax>1370</xmax>
+			<ymax>1340</ymax>
+		</bndbox>
+	</object>
+</annotation>

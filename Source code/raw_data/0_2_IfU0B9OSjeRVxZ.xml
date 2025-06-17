@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>0_2_IfU0B9OSjeRVxZ.jpg</filename>
+	<path>/my-project-name/0_2_IfU0B9OSjeRVxZ.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>679</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>peeled banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>135</ymin>
+			<xmax>949</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

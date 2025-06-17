@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>fresh-victoria-pineapple-cut-in-half-on-a-wooden-garden-table-in-the-B0W532.jpg</filename>
+	<path>/my-project-name/fresh-victoria-pineapple-cut-in-half-on-a-wooden-garden-table-in-the-B0W532.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>955</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>120</ymin>
+			<xmax>885</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

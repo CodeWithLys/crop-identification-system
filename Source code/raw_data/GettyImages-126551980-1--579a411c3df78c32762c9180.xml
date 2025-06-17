@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>GettyImages-126551980-1--579a411c3df78c32762c9180.jpg</filename>
+	<path>/my-project-name/GettyImages-126551980-1--579a411c3df78c32762c9180.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1011</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>741</ymin>
+			<xmax>772</xmax>
+			<ymax>984</ymax>
+		</bndbox>
+	</object>
+</annotation>

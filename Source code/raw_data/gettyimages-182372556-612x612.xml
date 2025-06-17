@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>gettyimages-182372556-612x612.jpg</filename>
+	<path>/my-project-name/gettyimages-182372556-612x612.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>45</ymin>
+			<xmax>585</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

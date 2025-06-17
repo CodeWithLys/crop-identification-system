@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-fresh-red-onion-bulb-in-stack-isolated-with-clipping-path-and-shadow-in-file-format-png.webp</filename>
+	<path>/my-project-name/single-fresh-red-onion-bulb-in-stack-isolated-with-clipping-path-and-shadow-in-file-format-png.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>957</width>
+		<height>980</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>193</ymin>
+			<xmax>713</xmax>
+			<ymax>834</ymax>
+		</bndbox>
+	</object>
+</annotation>

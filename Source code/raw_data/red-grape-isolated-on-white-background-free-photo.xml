@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>red-grape-isolated-on-white-background-free-photo.jpg</filename>
+	<path>/my-project-name/red-grape-isolated-on-white-background-free-photo.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>24</ymin>
+			<xmax>159</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

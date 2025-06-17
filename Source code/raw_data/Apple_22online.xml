@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Apple_22online.jfif</filename>
+	<path>/my-project-name/Apple_22online.jfif</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>32</ymin>
+			<xmax>198</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>20231221_090722.jpg</filename>
+	<path>/my-project-name/20231221_090722.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>749</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>626</ymin>
+			<xmax>571</xmax>
+			<ymax>999</ymax>
+		</bndbox>
+	</object>
+</annotation>

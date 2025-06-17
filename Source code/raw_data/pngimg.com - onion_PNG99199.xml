@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pngimg.com - onion_PNG99199.png</filename>
+	<path>/my-project-name/pngimg.com - onion_PNG99199.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>14</ymin>
+			<xmax>533</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

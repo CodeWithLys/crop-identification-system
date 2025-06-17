@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Apple_8online.png</filename>
+	<path>/my-project-name/Apple_8online.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1889</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>apple/</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>172</ymin>
+			<xmax>1953</xmax>
+			<ymax>1730</ymax>
+		</bndbox>
+	</object>
+</annotation>

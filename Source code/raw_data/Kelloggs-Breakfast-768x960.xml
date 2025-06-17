@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Kelloggs-Breakfast-768x960.webp</filename>
+	<path>/my-project-name/Kelloggs-Breakfast-768x960.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>234</ymin>
+			<xmax>538</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>

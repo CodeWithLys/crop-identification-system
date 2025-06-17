@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>early-girl-tomato-red-plant-260nw-1884031729.webp</filename>
+	<path>/my-project-name/early-girl-tomato-red-plant-260nw-1884031729.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>80</ymin>
+			<xmax>273</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>05329-pk-p1.webp</filename>
+	<path>/my-project-name/05329-pk-p1.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>180</ymin>
+			<xmax>680</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>f108e2d6-2728-45f6-8780-79459b8d4631_medium.webp</filename>
+	<path>/my-project-name/f108e2d6-2728-45f6-8780-79459b8d4631_medium.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>204</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>92</ymin>
+			<xmax>200</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

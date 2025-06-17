@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>10845138-single-kiwi-fruit-hanging-on-a-branch.jpg</filename>
+	<path>/my-project-name/10845138-single-kiwi-fruit-hanging-on-a-branch.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>976</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>435</ymin>
+			<xmax>727</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+</annotation>

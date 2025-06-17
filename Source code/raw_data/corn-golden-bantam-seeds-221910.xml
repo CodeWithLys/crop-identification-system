@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>corn-golden-bantam-seeds-221910.webp</filename>
+	<path>/my-project-name/corn-golden-bantam-seeds-221910.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>110</ymin>
+			<xmax>864</xmax>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+</annotation>

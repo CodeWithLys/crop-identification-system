@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>BHG-Garden-Onions_8PfguK8DaZH831WkpPQqBI-f8118432a9144a95b2dc852c0dffd5d5.jpg</filename>
+	<path>/my-project-name/BHG-Garden-Onions_8PfguK8DaZH831WkpPQqBI-f8118432a9144a95b2dc852c0dffd5d5.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3744</width>
+		<height>2963</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1384</xmin>
+			<ymin>1830</ymin>
+			<xmax>2370</xmax>
+			<ymax>2955</ymax>
+		</bndbox>
+	</object>
+</annotation>

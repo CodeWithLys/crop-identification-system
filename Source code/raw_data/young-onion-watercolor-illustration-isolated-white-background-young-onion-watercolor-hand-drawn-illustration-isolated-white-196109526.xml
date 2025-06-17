@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>young-onion-watercolor-illustration-isolated-white-background-young-onion-watercolor-hand-drawn-illustration-isolated-white-196109526.webp</filename>
+	<path>/my-project-name/young-onion-watercolor-illustration-isolated-white-background-young-onion-watercolor-hand-drawn-illustration-isolated-white-196109526.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>18</ymin>
+			<xmax>593</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>10145593KG-20190726-Media-checkers300Wx300H.png</filename>
+	<path>/my-project-name/10145593KG-20190726-Media-checkers300Wx300H.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>35</ymin>
+			<xmax>300</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

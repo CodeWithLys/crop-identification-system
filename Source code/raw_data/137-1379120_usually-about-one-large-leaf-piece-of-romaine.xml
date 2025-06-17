@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>137-1379120_usually-about-one-large-leaf-piece-of-romaine.png</filename>
+	<path>/my-project-name/137-1379120_usually-about-one-large-leaf-piece-of-romaine.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>823</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>23</ymin>
+			<xmax>705</xmax>
+			<ymax>792</ymax>
+		</bndbox>
+	</object>
+</annotation>

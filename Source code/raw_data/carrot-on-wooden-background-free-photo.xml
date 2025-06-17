@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>carrot-on-wooden-background-free-photo.jpg</filename>
+	<path>/my-project-name/carrot-on-wooden-background-free-photo.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1960</width>
+		<height>1960</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>890</ymin>
+			<xmax>1719</xmax>
+			<ymax>1684</ymax>
+		</bndbox>
+	</object>
+</annotation>

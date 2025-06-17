@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>corn-waste-on-black-background-260nw-2406910095.webp</filename>
+	<path>/my-project-name/corn-waste-on-black-background-260nw-2406910095.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>19</ymin>
+			<xmax>218</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

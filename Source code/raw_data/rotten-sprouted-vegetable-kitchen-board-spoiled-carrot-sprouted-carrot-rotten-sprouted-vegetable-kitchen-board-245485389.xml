@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>rotten-sprouted-vegetable-kitchen-board-spoiled-carrot-sprouted-carrot-rotten-sprouted-vegetable-kitchen-board-245485389.webp</filename>
+	<path>/my-project-name/rotten-sprouted-vegetable-kitchen-board-spoiled-carrot-sprouted-carrot-rotten-sprouted-vegetable-kitchen-board-245485389.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>173</ymin>
+			<xmax>800</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

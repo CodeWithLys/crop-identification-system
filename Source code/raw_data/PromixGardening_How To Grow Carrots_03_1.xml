@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>PromixGardening_How To Grow Carrots_03_1.jpg</filename>
+	<path>/my-project-name/PromixGardening_How To Grow Carrots_03_1.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>137</ymin>
+			<xmax>594</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

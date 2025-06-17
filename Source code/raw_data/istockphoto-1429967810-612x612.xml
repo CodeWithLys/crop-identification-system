@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>istockphoto-1429967810-612x612.jpg</filename>
+	<path>/my-project-name/istockphoto-1429967810-612x612.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>23</ymin>
+			<xmax>562</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Sweet-Corn-Early-Golden-Bantam-Hybrid-Vegetable-Ferry-Morse.webp</filename>
+	<path>/my-project-name/Sweet-Corn-Early-Golden-Bantam-Hybrid-Vegetable-Ferry-Morse.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>940</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>0</ymin>
+			<xmax>697</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+</annotation>

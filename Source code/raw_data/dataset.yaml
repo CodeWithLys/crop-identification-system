@@ -1,0 +1,7 @@
+train: C:/VBS/raw_data/images/train
+val: C:/VBS/raw_data/images/val
+test: C:/VBS/raw_data/images/test
+
+nc: 11
+names: ['apple', 'banana', 'carrot', 'corn', 'grapes',
+        'kiwi', 'lettuce', 'onion', 'pineapple', 'potato', 'tomato']

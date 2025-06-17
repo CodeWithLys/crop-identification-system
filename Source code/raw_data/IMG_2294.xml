@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_2294.webp</filename>
+	<path>/my-project-name/IMG_2294.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>536</width>
+		<height>715</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>377</ymin>
+			<xmax>488</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

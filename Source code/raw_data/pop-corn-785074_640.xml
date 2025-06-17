@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pop-corn-785074_640.webp</filename>
+	<path>/my-project-name/pop-corn-785074_640.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>165</ymin>
+			<xmax>597</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

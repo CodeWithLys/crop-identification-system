@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Banana_1online.jfif</filename>
+	<path>/my-project-name/Banana_1online.jfif</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>239</width>
+		<height>211</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>11</ymin>
+			<xmax>232</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>depositphotos_300488652-stock-photo-lettuce-salad-leaves-isolated-fresh.jpg</filename>
+	<path>/my-project-name/depositphotos_300488652-stock-photo-lettuce-salad-leaves-isolated-fresh.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1700</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>0</ymin>
+			<xmax>1419</xmax>
+			<ymax>1432</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>bacterial-spot-tomato.webp</filename>
+	<path>/my-project-name/bacterial-spot-tomato.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>508</width>
+		<height>548</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>51</ymin>
+			<xmax>481</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

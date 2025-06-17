@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>81Kwy-haiFL._AC_UF894,1000_QL80_.jpg</filename>
+	<path>/my-project-name/81Kwy-haiFL._AC_UF894,1000_QL80_.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>894</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>9</ymin>
+			<xmax>868</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

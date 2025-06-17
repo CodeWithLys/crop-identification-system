@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pine.jfif</filename>
+	<path>/my-project-name/pine.jfif</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>910</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>106</ymin>
+			<xmax>464</xmax>
+			<ymax>825</ymax>
+		</bndbox>
+	</object>
+</annotation>

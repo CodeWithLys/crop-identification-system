@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>depositphotos_97587650-stock-photo-a-healthy-onion.jpg</filename>
+	<path>/my-project-name/depositphotos_97587650-stock-photo-a-healthy-onion.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>28</ymin>
+			<xmax>242</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

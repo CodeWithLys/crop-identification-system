@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-corn-26272943.webp</filename>
+	<path>/my-project-name/single-corn-26272943.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>69</ymin>
+			<xmax>765</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

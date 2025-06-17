@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>WhatsApp Image 2025-05-14 at 18.10.34_eec1edfd.jpg</filename>
+	<path>/my-project-name/WhatsApp Image 2025-05-14 at 18.10.34_eec1edfd.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>188</ymin>
+			<xmax>334</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

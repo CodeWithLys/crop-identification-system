@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>depositphotos_24894143-stock-photo-gold-onion-bulb.jpg</filename>
+	<path>/my-project-name/depositphotos_24894143-stock-photo-gold-onion-bulb.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>21</ymin>
+			<xmax>545</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>

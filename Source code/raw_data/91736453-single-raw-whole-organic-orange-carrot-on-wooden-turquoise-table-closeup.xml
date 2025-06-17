@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>91736453-single-raw-whole-organic-orange-carrot-on-wooden-turquoise-table-closeup.jpg</filename>
+	<path>/my-project-name/91736453-single-raw-whole-organic-orange-carrot-on-wooden-turquoise-table-closeup.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>105</ymin>
+			<xmax>1112</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>

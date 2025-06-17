@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>red-ripe-apple-on-the-ground-in-an-orchard-garden-2K3F6MC.jpg</filename>
+	<path>/my-project-name/red-ripe-apple-on-the-ground-in-an-orchard-garden-2K3F6MC.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>apple/</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>636</ymin>
+			<xmax>732</xmax>
+			<ymax>1169</ymax>
+		</bndbox>
+	</object>
+</annotation>

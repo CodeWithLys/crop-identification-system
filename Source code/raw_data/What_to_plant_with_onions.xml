@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>What_to_plant_with_onions.webp</filename>
+	<path>/my-project-name/What_to_plant_with_onions.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>282</ymin>
+			<xmax>352</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-onion-on-a-white-background-2XYKG4P.jpg</filename>
+	<path>/my-project-name/single-onion-on-a-white-background-2XYKG4P.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>82</ymin>
+			<xmax>1124</xmax>
+			<ymax>813</ymax>
+		</bndbox>
+	</object>
+</annotation>

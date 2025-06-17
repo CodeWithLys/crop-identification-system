@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>stock-photo-a-closeup-of-a-single-onion-plant-in-the-garden-highlighting-the-bulb-with-its-roots-exposed-83880457.jpg</filename>
+	<path>/my-project-name/stock-photo-a-closeup-of-a-single-onion-plant-in-the-garden-highlighting-the-bulb-with-its-roots-exposed-83880457.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1205</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>110</ymin>
+			<xmax>972</xmax>
+			<ymax>1159</ymax>
+		</bndbox>
+	</object>
+</annotation>

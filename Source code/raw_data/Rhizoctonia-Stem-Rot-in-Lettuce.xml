@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Rhizoctonia-Stem-Rot-in-Lettuce.jpg</filename>
+	<path>/my-project-name/Rhizoctonia-Stem-Rot-in-Lettuce.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>60</ymin>
+			<xmax>665</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

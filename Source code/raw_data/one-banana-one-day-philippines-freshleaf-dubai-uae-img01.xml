@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>one-banana-one-day-philippines-freshleaf-dubai-uae-img01.jpg</filename>
+	<path>/my-project-name/one-banana-one-day-philippines-freshleaf-dubai-uae-img01.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>89</ymin>
+			<xmax>1000</xmax>
+			<ymax>902</ymax>
+		</bndbox>
+	</object>
+</annotation>

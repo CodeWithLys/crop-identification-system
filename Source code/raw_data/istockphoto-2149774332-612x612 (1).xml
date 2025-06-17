@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>istockphoto-2149774332-612x612 (1).jpg</filename>
+	<path>/my-project-name/istockphoto-2149774332-612x612 (1).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>493</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>52</ymin>
+			<xmax>490</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

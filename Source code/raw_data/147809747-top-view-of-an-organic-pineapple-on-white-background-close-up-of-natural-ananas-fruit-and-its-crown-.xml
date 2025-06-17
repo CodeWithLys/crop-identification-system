@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>147809747-top-view-of-an-organic-pineapple-on-white-background-close-up-of-natural-ananas-fruit-and-its-crown-.jpg</filename>
+	<path>/my-project-name/147809747-top-view-of-an-organic-pineapple-on-white-background-close-up-of-natural-ananas-fruit-and-its-crown-.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1042</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>170</ymin>
+			<xmax>1020</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+</annotation>

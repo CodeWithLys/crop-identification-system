@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pngtree-a-single-potato-representing-versatile-and-humble-vegetable-png-image_20033965.png</filename>
+	<path>/my-project-name/pngtree-a-single-potato-representing-versatile-and-humble-vegetable-png-image_20033965.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>434</ymin>
+			<xmax>2463</xmax>
+			<ymax>2066</ymax>
+		</bndbox>
+	</object>
+</annotation>

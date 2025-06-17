@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pngtree-one-corn-top-view-png-image_13246934.png</filename>
+	<path>/my-project-name/pngtree-one-corn-top-view-png-image_13246934.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>35</ymin>
+			<xmax>950</xmax>
+			<ymax>1139</ymax>
+		</bndbox>
+	</object>
+</annotation>

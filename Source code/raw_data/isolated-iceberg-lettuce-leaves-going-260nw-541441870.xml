@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>isolated-iceberg-lettuce-leaves-going-260nw-541441870.webp</filename>
+	<path>/my-project-name/isolated-iceberg-lettuce-leaves-going-260nw-541441870.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>324</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>9</ymin>
+			<xmax>294</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

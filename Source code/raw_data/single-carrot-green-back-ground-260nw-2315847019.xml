@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-carrot-green-back-ground-260nw-2315847019.webp</filename>
+	<path>/my-project-name/single-carrot-green-back-ground-260nw-2315847019.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>88</ymin>
+			<xmax>390</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

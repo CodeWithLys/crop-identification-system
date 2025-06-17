@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>istockphoto-483484931-612x612 (1).jpg</filename>
+	<path>/my-project-name/istockphoto-483484931-612x612 (1).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>51</ymin>
+			<xmax>361</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

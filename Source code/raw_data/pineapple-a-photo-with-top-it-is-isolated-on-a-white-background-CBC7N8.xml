@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pineapple-a-photo-with-top-it-is-isolated-on-a-white-background-CBC7N8.jpg</filename>
+	<path>/my-project-name/pineapple-a-photo-with-top-it-is-isolated-on-a-white-background-CBC7N8.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>865</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>185</ymin>
+			<xmax>793</xmax>
+			<ymax>1160</ymax>
+		</bndbox>
+	</object>
+</annotation>

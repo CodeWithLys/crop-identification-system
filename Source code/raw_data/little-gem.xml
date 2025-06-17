@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>little-gem.webp</filename>
+	<path>/my-project-name/little-gem.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>871</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>488</ymin>
+			<xmax>319</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+</annotation>

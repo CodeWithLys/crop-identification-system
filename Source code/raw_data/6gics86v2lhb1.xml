@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>6gics86v2lhb1.jpg</filename>
+	<path>/my-project-name/6gics86v2lhb1.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1142</xmin>
+			<ymin>1064</ymin>
+			<xmax>1657</xmax>
+			<ymax>2763</ymax>
+		</bndbox>
+	</object>
+</annotation>

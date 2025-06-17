@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>maize-corn-cob-damaged-by-larva-caterpillar-of-european-corn-borer-ostrinia-nubilalis-it-is-a-one-of-most-important-pest-of-corn-crop-2T5J1NA.jpg</filename>
+	<path>/my-project-name/maize-corn-cob-damaged-by-larva-caterpillar-of-european-corn-borer-ostrinia-nubilalis-it-is-a-one-of-most-important-pest-of-corn-crop-2T5J1NA.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>834</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>89</ymin>
+			<xmax>1300</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>

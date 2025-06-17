@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>photo-1720186704189-5f7ce8cf5e8d.jfif</filename>
+	<path>/my-project-name/photo-1720186704189-5f7ce8cf5e8d.jfif</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>570</xmin>
+			<ymin>130</ymin>
+			<xmax>2098</xmax>
+			<ymax>1997</ymax>
+		</bndbox>
+	</object>
+</annotation>

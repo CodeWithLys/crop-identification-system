@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>b-grade-brown-onion-500x500.webp</filename>
+	<path>/my-project-name/b-grade-brown-onion-500x500.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>39</ymin>
+			<xmax>377</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

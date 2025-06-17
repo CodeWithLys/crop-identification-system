@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-carrot-isolated-over-white-260nw-80334502.webp</filename>
+	<path>/my-project-name/single-carrot-isolated-over-white-260nw-80334502.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>97</ymin>
+			<xmax>381</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>gettyimages-121119398-612x612 (1).jpg</filename>
+	<path>/my-project-name/gettyimages-121119398-612x612 (1).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>34</ymin>
+			<xmax>466</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

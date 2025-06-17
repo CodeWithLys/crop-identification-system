@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-carrot-isolated-white-background-clipping-path-picture-healthy-red-128661703.webp</filename>
+	<path>/my-project-name/single-carrot-isolated-white-background-clipping-path-picture-healthy-red-128661703.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>77</ymin>
+			<xmax>506</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+</annotation>

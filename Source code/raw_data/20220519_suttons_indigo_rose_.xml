@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>20220519_suttons_indigo_rose_.jpg</filename>
+	<path>/my-project-name/20220519_suttons_indigo_rose_.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>284</ymin>
+			<xmax>393</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>

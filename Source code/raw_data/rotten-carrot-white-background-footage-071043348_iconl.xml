@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>rotten-carrot-white-background-footage-071043348_iconl.webp</filename>
+	<path>/my-project-name/rotten-carrot-white-background-footage-071043348_iconl.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>9</ymin>
+			<xmax>421</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

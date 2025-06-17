@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Ipomoea_batatas_006.jpg</filename>
+	<path>/my-project-name/Ipomoea_batatas_006.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2146</width>
+		<height>1611</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>643</ymin>
+			<xmax>2063</xmax>
+			<ymax>1322</ymax>
+		</bndbox>
+	</object>
+</annotation>

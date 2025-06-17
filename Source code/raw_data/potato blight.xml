@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>potato blight.jpg</filename>
+	<path>/my-project-name/potato blight.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>125</ymin>
+			<xmax>297</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

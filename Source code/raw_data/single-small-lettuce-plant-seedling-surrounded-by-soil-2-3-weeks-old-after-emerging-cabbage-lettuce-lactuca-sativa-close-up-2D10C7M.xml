@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-small-lettuce-plant-seedling-surrounded-by-soil-2-3-weeks-old-after-emerging-cabbage-lettuce-lactuca-sativa-close-up-2D10C7M.jpg</filename>
+	<path>/my-project-name/single-small-lettuce-plant-seedling-surrounded-by-soil-2-3-weeks-old-after-emerging-cabbage-lettuce-lactuca-sativa-close-up-2D10C7M.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>75</ymin>
+			<xmax>1274</xmax>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+</annotation>

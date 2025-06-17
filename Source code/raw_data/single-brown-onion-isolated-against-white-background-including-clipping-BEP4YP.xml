@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-brown-onion-isolated-against-white-background-including-clipping-BEP4YP.jpg</filename>
+	<path>/my-project-name/single-brown-onion-isolated-against-white-background-including-clipping-BEP4YP.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>70</ymin>
+			<xmax>885</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+</annotation>

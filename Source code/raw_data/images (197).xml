@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>images (39).jfif</filename>
+	<path>/my-project-name/images (39).jfif</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>166</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>40</ymin>
+			<xmax>136</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

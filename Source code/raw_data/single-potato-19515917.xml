@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-potato-19515917.webp</filename>
+	<path>/my-project-name/single-potato-19515917.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>109</ymin>
+			<xmax>507</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>

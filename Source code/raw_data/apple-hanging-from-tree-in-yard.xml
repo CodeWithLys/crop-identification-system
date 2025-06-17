@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>apple-hanging-from-tree-in-yard.jpg</filename>
+	<path>/my-project-name/apple-hanging-from-tree-in-yard.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>727</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>apple/</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>265</ymin>
+			<xmax>649</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

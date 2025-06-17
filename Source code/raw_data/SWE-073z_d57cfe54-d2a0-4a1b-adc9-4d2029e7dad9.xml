@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>SWE-073z_d57cfe54-d2a0-4a1b-adc9-4d2029e7dad9.jpg</filename>
+	<path>/my-project-name/SWE-073z_d57cfe54-d2a0-4a1b-adc9-4d2029e7dad9.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>166</ymin>
+			<xmax>410</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

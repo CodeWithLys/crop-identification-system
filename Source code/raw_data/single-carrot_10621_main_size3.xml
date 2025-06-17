@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-carrot_10621_main_size3.jpg</filename>
+	<path>/my-project-name/single-carrot_10621_main_size3.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>12</ymin>
+			<xmax>287</xmax>
+			<ymax>1485</ymax>
+		</bndbox>
+	</object>
+</annotation>

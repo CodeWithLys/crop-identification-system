@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>apple-food-and-drink-nutrition-food-culinary-health-beauty-color-coloured-BFPNT7.jpg</filename>
+	<path>/my-project-name/apple-food-and-drink-nutrition-food-culinary-health-beauty-color-coloured-BFPNT7.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>apple/</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>624</ymin>
+			<xmax>791</xmax>
+			<ymax>1178</ymax>
+		</bndbox>
+	</object>
+</annotation>

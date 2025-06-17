@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>oignon-roscoff-top.jpg</filename>
+	<path>/my-project-name/oignon-roscoff-top.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>14</ymin>
+			<xmax>613</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

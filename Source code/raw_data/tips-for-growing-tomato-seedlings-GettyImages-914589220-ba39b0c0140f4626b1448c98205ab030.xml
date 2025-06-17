@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>tips-for-growing-tomato-seedlings-GettyImages-914589220-ba39b0c0140f4626b1448c98205ab030.jpg</filename>
+	<path>/my-project-name/tips-for-growing-tomato-seedlings-GettyImages-914589220-ba39b0c0140f4626b1448c98205ab030.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2667</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>1403</ymin>
+			<xmax>995</xmax>
+			<ymax>1791</ymax>
+		</bndbox>
+	</object>
+</annotation>

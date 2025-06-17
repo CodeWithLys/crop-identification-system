@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>farmer-harvesting-corn-17269576.webp</filename>
+	<path>/my-project-name/farmer-harvesting-corn-17269576.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>675</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>149</ymin>
+			<xmax>544</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+</annotation>

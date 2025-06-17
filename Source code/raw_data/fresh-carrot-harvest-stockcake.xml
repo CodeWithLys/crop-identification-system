@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>fresh-carrot-harvest-stockcake.jpg</filename>
+	<path>/my-project-name/fresh-carrot-harvest-stockcake.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>5</ymin>
+			<xmax>196</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

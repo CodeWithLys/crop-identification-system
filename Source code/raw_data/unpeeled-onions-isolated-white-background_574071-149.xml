@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>unpeeled-onions-isolated-white-background_574071-149.jpg</filename>
+	<path>/my-project-name/unpeeled-onions-isolated-white-background_574071-149.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>113</ymin>
+			<xmax>461</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-dark-grape-with-green-leaves-close-up-photo.jpg</filename>
+	<path>/my-project-name/single-dark-grape-with-green-leaves-close-up-photo.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>34</ymin>
+			<xmax>305</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

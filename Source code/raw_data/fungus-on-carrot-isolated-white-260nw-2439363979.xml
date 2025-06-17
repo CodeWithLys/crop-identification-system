@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>fungus-on-carrot-isolated-white-260nw-2439363979.webp</filename>
+	<path>/my-project-name/fungus-on-carrot-isolated-white-260nw-2439363979.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>456</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>59</ymin>
+			<xmax>416</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

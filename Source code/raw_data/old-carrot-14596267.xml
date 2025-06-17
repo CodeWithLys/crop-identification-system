@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>old-carrot-14596267.webp</filename>
+	<path>/my-project-name/old-carrot-14596267.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1134</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>229</ymin>
+			<xmax>1447</xmax>
+			<ymax>867</ymax>
+		</bndbox>
+	</object>
+</annotation>

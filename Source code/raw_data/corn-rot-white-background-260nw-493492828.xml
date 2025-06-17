@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>corn-rot-white-background-260nw-493492828.webp</filename>
+	<path>/my-project-name/corn-rot-white-background-260nw-493492828.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>366</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>38</ymin>
+			<xmax>336</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

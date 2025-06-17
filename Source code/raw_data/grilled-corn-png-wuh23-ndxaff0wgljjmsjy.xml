@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>grilled-corn-png-wuh23-ndxaff0wgljjmsjy.png</filename>
+	<path>/my-project-name/grilled-corn-png-wuh23-ndxaff0wgljjmsjy.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>896</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>15</ymin>
+			<xmax>896</xmax>
+			<ymax>812</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>old-sprouted-carrot-isolated-white-background-germinating-vegetable-243902564.webp</filename>
+	<path>/my-project-name/old-sprouted-carrot-isolated-white-background-germinating-vegetable-243902564.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>601</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>179</ymin>
+			<xmax>800</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

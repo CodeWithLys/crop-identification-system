@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>corn-mold-GettyImages-802014018.jpg</filename>
+	<path>/my-project-name/corn-mold-GettyImages-802014018.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>45</ymin>
+			<xmax>1018</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

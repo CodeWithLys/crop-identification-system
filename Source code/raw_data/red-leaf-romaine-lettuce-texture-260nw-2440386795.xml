@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>red-leaf-romaine-lettuce-texture-260nw-2440386795.webp</filename>
+	<path>/my-project-name/red-leaf-romaine-lettuce-texture-260nw-2440386795.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>105</ymin>
+			<xmax>155</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

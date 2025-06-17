@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Sunscald.webp</filename>
+	<path>/my-project-name/Sunscald.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>21</ymin>
+			<xmax>1099</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>

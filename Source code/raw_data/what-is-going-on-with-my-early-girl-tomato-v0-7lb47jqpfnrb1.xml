@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>what-is-going-on-with-my-early-girl-tomato-v0-7lb47jqpfnrb1.jpg</filename>
+	<path>/my-project-name/what-is-going-on-with-my-early-girl-tomato-v0-7lb47jqpfnrb1.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>rotten tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1466</xmin>
+			<ymin>1494</ymin>
+			<xmax>1988</xmax>
+			<ymax>2261</ymax>
+		</bndbox>
+	</object>
+</annotation>

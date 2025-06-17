@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>rotten-decay-green-lettuce-salad-leaves-isolated-white-background-generated-ai-rotten-decay-green-lettuce-salad-leaves-376707577.webp</filename>
+	<path>/my-project-name/rotten-decay-green-lettuce-salad-leaves-isolated-white-background-generated-ai-rotten-decay-green-lettuce-salad-leaves-376707577.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>6</ymin>
+			<xmax>714</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

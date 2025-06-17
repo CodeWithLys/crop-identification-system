@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pngtree-realistic-single-onion-png-image_15189323.png</filename>
+	<path>/my-project-name/pngtree-realistic-single-onion-png-image_15189323.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>143</ymin>
+			<xmax>2348</xmax>
+			<ymax>2500</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-carrot-white-background-281386342.webp</filename>
+	<path>/my-project-name/single-carrot-white-background-281386342.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1205</width>
+		<height>1690</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>111</ymin>
+			<xmax>860</xmax>
+			<ymax>1557</ymax>
+		</bndbox>
+	</object>
+</annotation>

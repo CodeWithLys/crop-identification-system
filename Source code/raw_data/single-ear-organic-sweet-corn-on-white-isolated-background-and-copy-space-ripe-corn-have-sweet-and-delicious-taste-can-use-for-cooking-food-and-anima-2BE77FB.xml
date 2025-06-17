@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>single-ear-organic-sweet-corn-on-white-isolated-background-and-copy-space-ripe-corn-have-sweet-and-delicious-taste-can-use-for-cooking-food-and-anima-2BE77FB.jpg</filename>
+	<path>/my-project-name/single-ear-organic-sweet-corn-on-white-isolated-background-and-copy-space-ripe-corn-have-sweet-and-delicious-taste-can-use-for-cooking-food-and-anima-2BE77FB.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>233</ymin>
+			<xmax>1222</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+</annotation>

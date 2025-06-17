@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>bigstock-202006855-scaled.jpg</filename>
+	<path>/my-project-name/bigstock-202006855-scaled.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1707</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>681</xmin>
+			<ymin>452</ymin>
+			<xmax>1770</xmax>
+			<ymax>1494</ymax>
+		</bndbox>
+	</object>
+</annotation>

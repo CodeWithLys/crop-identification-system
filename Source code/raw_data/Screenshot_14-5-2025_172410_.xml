@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Screenshot_14-5-2025_172410_.jpeg</filename>
+	<path>/my-project-name/Screenshot_14-5-2025_172410_.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>476</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>259</ymin>
+			<xmax>331</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>afb326b3-b6a5-406b-a708-672b3f0d2f0d_large.webp</filename>
+	<path>/my-project-name/afb326b3-b6a5-406b-a708-672b3f0d2f0d_large.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>72</ymin>
+			<xmax>303</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+</annotation>

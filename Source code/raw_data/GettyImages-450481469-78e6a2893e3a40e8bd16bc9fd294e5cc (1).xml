@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>GettyImages-450481469-78e6a2893e3a40e8bd16bc9fd294e5cc (1).jpg</filename>
+	<path>/my-project-name/GettyImages-450481469-78e6a2893e3a40e8bd16bc9fd294e5cc (1).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>239</ymin>
+			<xmax>618</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

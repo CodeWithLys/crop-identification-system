@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>amazon_chocolate_tomato3.jpg</filename>
+	<path>/my-project-name/amazon_chocolate_tomato3.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>526</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>166</ymin>
+			<xmax>518</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

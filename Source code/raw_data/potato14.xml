@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>potato14.webp</filename>
+	<path>/my-project-name/potato14.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>32</ymin>
+			<xmax>332</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

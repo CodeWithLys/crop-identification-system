@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Growing-Potatoes-Step-1-web-300x212 (1).jpg</filename>
+	<path>/my-project-name/Growing-Potatoes-Step-1-web-300x212 (1).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>212</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>58</ymin>
+			<xmax>215</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

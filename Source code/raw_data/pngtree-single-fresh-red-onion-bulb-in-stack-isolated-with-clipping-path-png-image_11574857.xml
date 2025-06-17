@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pngtree-single-fresh-red-onion-bulb-in-stack-isolated-with-clipping-path-png-image_11574857.png</filename>
+	<path>/my-project-name/pngtree-single-fresh-red-onion-bulb-in-stack-isolated-with-clipping-path-png-image_11574857.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>39</ymin>
+			<xmax>328</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>one-lettuce-leaf-isolated-white-background-161719317.webp</filename>
+	<path>/my-project-name/one-lettuce-leaf-isolated-white-background-161719317.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>618</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>12</ymin>
+			<xmax>733</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

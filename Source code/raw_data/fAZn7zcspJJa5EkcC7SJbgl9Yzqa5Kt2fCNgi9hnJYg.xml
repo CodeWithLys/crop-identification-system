@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>fAZn7zcspJJa5EkcC7SJbgl9Yzqa5Kt2fCNgi9hnJYg.webp</filename>
+	<path>/my-project-name/fAZn7zcspJJa5EkcC7SJbgl9Yzqa5Kt2fCNgi9hnJYg.webp</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>123</ymin>
+			<xmax>598</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

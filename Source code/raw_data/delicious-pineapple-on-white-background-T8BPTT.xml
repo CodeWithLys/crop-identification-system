@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>delicious-pineapple-on-white-background-T8BPTT.jpg</filename>
+	<path>/my-project-name/delicious-pineapple-on-white-background-T8BPTT.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1030</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pineapple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>188</ymin>
+			<xmax>1148</xmax>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>how-the-early-girl-tomato-came-to-be-1679431504.jpg</filename>
+	<path>/my-project-name/how-the-early-girl-tomato-came-to-be-1679431504.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>3</ymin>
+			<xmax>521</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

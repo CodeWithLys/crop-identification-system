@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>onion-onions-bolle-cream-onion-wallpaper-thumb.jpg</filename>
+	<path>/my-project-name/onion-onions-bolle-cream-onion-wallpaper-thumb.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>onion rotten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>2</ymin>
+			<xmax>262</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

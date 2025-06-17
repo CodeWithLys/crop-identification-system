@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Screenshot_13-5-2025_225648_.jpeg</filename>
+	<path>/my-project-name/Screenshot_13-5-2025_225648_.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>788</width>
+		<height>519</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>87</ymin>
+			<xmax>683</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
