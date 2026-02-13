@@ -13,26 +13,3 @@ gitpython==3.1.30
 psutil
 requests==2.32.2
 tqdm==4.66.3
-```
-
----
-
-## Fix 3: Update Your Folder Structure
-
-Make sure your repo looks like this:
-```
-crop-identification-system/
-├── app.py  ← Should be HERE (root level)
-├── requirements.txt  ← Should be HERE (root level)
-└── Final Trained Model/
-    └── yolov5-master/
-        ├── detect.py
-        ├── dataset.yaml
-        ├── requirements.txt (IGNORE this one - it's for local use only)
-        ├── models/
-        ├── utils/
-        └── runs/
-            └── train/
-                └── exp6/
-                    └── weights/
-                        └── best.pt
