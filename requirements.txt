@@ -14,4 +14,4 @@ requests==2.32.3
 tqdm==4.66.5
 ultralytics
 opencv-python==4.11.0.86
-setuptools
+setuptools==70.0.0
