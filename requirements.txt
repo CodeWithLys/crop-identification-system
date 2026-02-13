@@ -13,3 +13,4 @@ gitpython==3.1.43
 psutil
 requests==2.32.3
 tqdm==4.66.5
+ultralytics
