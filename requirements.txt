@@ -1,7 +1,6 @@
 streamlit==1.39.0
 torch==2.6.0
 torchvision==0.21.0
-opencv-python-headless==4.10.0.84
 Pillow==10.4.0
 numpy==1.26.4
 PyYAML==6.0.2
@@ -14,3 +13,4 @@ psutil
 requests==2.32.3
 tqdm==4.66.5
 ultralytics
+opencv-python-headless==4.10.0.84
